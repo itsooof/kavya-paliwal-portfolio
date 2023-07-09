@@ -4,8 +4,8 @@ import "../../styles/Contact.css";
 import config from "../../config.json";
 
 import { HiOutlineMail } from "react-icons/hi";
-import { FaTelegramPlane } from "react-icons/fa";
-import { BsSnapchat } from "react-icons/bs";
+import { FaInstagram, FaTelegramPlane } from "react-icons/fa";
+import { BsSnapchat, BsTwitter } from "react-icons/bs";
 
 const Contact = () => {
   const Expire = (props) => {
@@ -63,20 +63,20 @@ const Contact = () => {
           </article>
 
           <article className="contact_option">
-            <FaTelegramPlane className="contact_icons" />
-            <h4>Telegram</h4>
-            <h5>{config.telegram}</h5>
+            <FaInstagram className="contact_icons" />
+            <h4>Instagram</h4>
+            <h5>{config.instagramUsername}</h5>
             <a href={config.telegram} target="_blank" rel="noreferrer">
               Send a message
             </a>
           </article>
 
           <article className="contact_option">
-            <BsSnapchat className="contact_icons" />
-            <h4>Snapchat</h4>
-            <h5>nishu.kr</h5>
+            <BsTwitter className="contact_icons" />
+            <h4>Twitter</h4>
+            <h5>itsooof_</h5>
             <a
-              href={`https://snapchat.com/add/${config.snapchatUsername}`}
+              href={`https://twitter.com/${config.twitterUsername}`}
               target="_blank"
               rel="noreferrer"
             >

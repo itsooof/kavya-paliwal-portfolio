@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 import config from "../../config.json";
 import "../../styles/Nav.css";
 import CV from '../../assets/kavya-paliwal-resume.pdf';
-import kp from '../../assets/kpp.svg'
+import kp from '../../assets/Kp1.svg'
 
 const Nav = ({ inView }) => {
   const [activeNav, setActiveNav] = useState("#");
