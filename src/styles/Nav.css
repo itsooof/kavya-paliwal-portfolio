@@ -21,10 +21,14 @@ nav {
 }
 
 .nav-text {
-  font-size: 32px;
-  font-family: "Italianno";
-  font-weight: 400;
-  font-style: italic;
+  height:3.5%;
+  width: 3.5%;
+  color: var(--text-color);
+  padding-top: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-left: 10px;
 }
 
 .nav-links a {

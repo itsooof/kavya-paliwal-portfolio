@@ -2,6 +2,7 @@ import React, { useState, useEffect } from "react";
 import config from "../../config.json";
 import "../../styles/Nav.css";
 import CV from '../../assets/kavya-paliwal-resume.pdf';
+import kp from '../../assets/kpp.svg'
 
 const Nav = ({ inView }) => {
   const [activeNav, setActiveNav] = useState("#");
@@ -39,7 +40,7 @@ const Nav = ({ inView }) => {
       }}
     >
       <div className="nav-text">
-        <h1>{config.firstName}.</h1>
+        <img loading="lazy" src={kp} alt="me" />
       </div>
 
       <ul className="nav-links">
