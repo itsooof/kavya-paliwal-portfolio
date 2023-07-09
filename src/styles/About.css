@@ -160,7 +160,7 @@ span:hover {
 .image-card img {
   height: 100%;
   width: 100%;
-  filter: grayscale(100%);
+  filter: grayscale(0%);
   transition: 2s;
 }
 .image-card:hover img {

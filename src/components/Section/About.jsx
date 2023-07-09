@@ -1,6 +1,7 @@
 import React, { useState } from "react";
 import "../../styles/About.css";
 import config from "../../config.json";
+import ME from '../../assets/KP.jpeg'
 
 import { FaAward } from "react-icons/fa";
 import { BsFolder } from "react-icons/bs";
@@ -33,7 +34,7 @@ const About = () => {
             <img src={About_Image} alt="profile_pic" />
           </div> */}
         <div className="me image-card">
-          <img loading="lazy" src={config.myImage} alt="me" />
+          <img loading="lazy" src={ME} alt="me" />
         </div>
         {/* </div> */}
 
@@ -51,14 +52,10 @@ const About = () => {
               <small>{projectNumber}+</small>
             </article>
 
-            <article className="about_card-content">
-              <BsStar className="about_icons" />
-              <h5>Achivements</h5>
-              <small>{config.numberOfAchivement}</small>
-            </article>
+            
           </div>
           <p>
-            Hello! My name is <span>Aarab Nishchal</span> and I enjoy creating
+            Hello! My name is <span>Kavya Paliwal</span> and I enjoy creating
             things that live on the internet. My interest in web development
             started back in high school and has been something that's been a
             part of my life for the past few years.
