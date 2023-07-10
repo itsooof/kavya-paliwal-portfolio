@@ -7,6 +7,7 @@ import {
   FaInstagram,
   FaGithub,
   FaTwitter,
+  FaLinkedinIn,
 } from "react-icons/fa";
 import { SiLinktree } from "react-icons/si";
 import { IoMdRocket } from "react-icons/io";
@@ -16,7 +17,7 @@ const Footer = () => {
     <footer id="footer">
       <div className="footer__wrapper">
         <a href="/" className="footer_logo">
-          Aarab Nishchal
+          Kavya Paliwal
         </a>
 
         <ul className="permalinks">
@@ -60,11 +61,11 @@ const Footer = () => {
             <FaTwitter />
           </a>
           <a
-            href={`https://www.facebook.com/${config.facebookUsername}/`}
+            href={`https://www.linkedin.com/in/${config.linkdinUsername}/`}
             target="_blank"
             rel="noreferrer"
           >
-            <FaFacebookSquare />
+            <FaLinkedinIn />
           </a>
           <a href={config.linktree} target="_blank" rel="noreferrer">
             <SiLinktree />
@@ -77,7 +78,7 @@ const Footer = () => {
           <p className="rocket_p">Beam me up, Shawty!</p>
         </div>
         <div className="copyright">
-          <small>&copy; Losier. All rights reserved.</small>
+          <small>&copy; Itsooof. All rights reserved.</small>
         </div>
       </div>
     </footer>

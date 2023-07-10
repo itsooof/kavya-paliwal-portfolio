@@ -38,9 +38,10 @@
     },
     {
       "id": 4,
-      "image": "/src/assets/obstacle-avoiding.jpeg",
+      "image": "https://raw.githubusercontent.com/itsooof/kavya-paliwal-portfolio/blob/main/src/assets/obstacle-avoiding.jpeg",
       "title": "Obstcle Avoiding Car",
       "github": "https://github.com/itsooof/obstacle-avoiding-car"
+      
     },
     {
       "id": 5,
