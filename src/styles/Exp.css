@@ -1,12 +1,13 @@
 .experience_container {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 2rem;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  
 }
 
 .experience_container > div {
   background: var(--color-bg-variant);
-  padding: 2.4rem 5rem;
+  padding: 5rem 5rem;
   border-radius: 2rem;
   border: 1px solid transparent;
   transition: var(--transition);
@@ -25,9 +26,14 @@
 }
 
 .experience_content {
+  
+  grid-template-columns: 1fr 1fr 1fr;
+  row-gap: 5rem;
+  column-gap: 5rem;
+  padding-left: 5rem;
   display: grid;
-  grid-template-columns: 1fr 1fr;
-  row-gap: 2rem;
+  justify-content: center;
+  align-items: center;
 }
 
 .experience_details {

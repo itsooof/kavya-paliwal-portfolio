@@ -4,8 +4,8 @@ import "../../styles/Contact.css";
 import config from "../../config.json";
 
 import { HiOutlineMail } from "react-icons/hi";
-import { FaInstagram, FaTelegramPlane } from "react-icons/fa";
-import { BsSnapchat, BsTwitter } from "react-icons/bs";
+import { FaInstagram} from "react-icons/fa";
+import { BsTwitter } from "react-icons/bs";
 
 const Contact = () => {
   const Expire = (props) => {
