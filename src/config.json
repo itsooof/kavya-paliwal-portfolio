@@ -27,22 +27,20 @@
       "id": 2,
       "image": "https://raw.githubusercontent.com/losier/v4/data/assets/githubRepo/Img2.png",
       "title": "Telegram Bot",
-      "github": "",
-      "demo": ""
+      "github": "melanoma"
     },
     {
       "id": 3,
       "image": "https://raw.githubusercontent.com/losier/v4/data/assets/githubRepo/Img3.jpg",
       "title": "Twitter Bot",
-      "github": "https://github.com/losier/TwitterBot",
-      "demo": "https://losier.github.io/"
+      "github": "https://github.com/itsooof/calculator-react",
+      "demo": "calculator-itsooof.netlify.app/"
     },
     {
       "id": 4,
-      "image": "https://raw.githubusercontent.com/losier/v4/data/assets/githubRepo/Img4.jfif",
-      "title": "Discord Bot",
-      "github": "https://github.com/losier/Kiri",
-      "demo": "https://discord.com/api/oauth2/authorize?client_id=900390993860366356&permissions=8&scope=bot"
+      "image": "/src/assets/obstacle-avoiding.jpeg",
+      "title": "Obstcle Avoiding Car",
+      "github": "https://github.com/itsooof/obstacle-avoiding-car"
     },
     {
       "id": 5,
