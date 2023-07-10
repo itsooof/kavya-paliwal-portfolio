@@ -28,7 +28,7 @@
 .experience_content {
   
   grid-template-columns: 1fr 1fr 1fr;
-  row-gap: 5rem;
+  row-gap: 2.5rem;
   column-gap: 5rem;
   padding-left: 5rem;
   display: grid;
