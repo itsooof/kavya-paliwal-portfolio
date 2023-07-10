@@ -49,7 +49,21 @@ const Exp = () => {
             <article className="experience_details">
               <BsPatchCheck className="experience_details-icons" />
               <div>
+                <h2>Java</h2>
+              </div>
+            </article>
+
+            <article className="experience_details">
+              <BsPatchCheck className="experience_details-icons" />
+              <div>
                 <h2>C++</h2>
+              </div>
+            </article>
+
+            <article className="experience_details">
+              <BsPatchCheck className="experience_details-icons" />
+              <div>
+                <h2>UiPath</h2>
               </div>
             </article>
 
