@@ -5,7 +5,6 @@ import ME from '../../assets/Kavya.jpeg';
 
 import { FaAward } from "react-icons/fa";
 import { BsFolder } from "react-icons/bs";
-import { BsStar } from "react-icons/bs";
 
 const About = () => {
   const [projectNumber, setProjectNumber] = useState(0);
