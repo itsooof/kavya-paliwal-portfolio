@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import "../../styles/About.css";
 import config from "../../config.json";
-import ME from '../../assets/KP.jpeg'
+import ME from '../../assets/Kavya.jpeg';
 
 import { FaAward } from "react-icons/fa";
 import { BsFolder } from "react-icons/bs";

@@ -1,5 +1,5 @@
 import img1 from "../../assets/githubRepo/Img1.jfif";
-import img2 from "../../assets/melanoma-detection.jpeg";
+import img2 from "../../assets/";
 import img3 from "../../assets/obstacle-avoiding.jpeg";
 import img4 from "../../assets/githubRepo/Img4.jfif";
 import img5 from "../../assets/githubRepo/Img5.jfif";
@@ -28,7 +28,7 @@ export const data = [
     image: img2,
     title: "Melanoma Detection",
     github: "https://github.com/itsooof/melanoma-detection-ai",
-    demo: "",
+    demo: "https://github.com/itsooof/melanoma-detection-ai",
   },
   {
     id: 3,
@@ -39,23 +39,23 @@ export const data = [
   },
   {
     id: 4,
+    image: img6,
+    title: "Obstacle Avoiding Car",
+    github: "https://github.com/losier/Todo",
+    demo: "https://losier.github.io/Todo",
+  },
+  {
+    id: 5,
     image: img4,
     title: "Calculator App",
     github: "https://github.com/losier/Kiri",
     demo: "https://discord.com/api/oauth2/authorize?client_id=900390993860366356&permissions=8&scope=bot",
   },
   {
-    id: 5,
+    id: 6,
     image: img5,
     title: "Phishing Website Detection",
     github: "https://github.com/losier/Dark-Chrome",
     demo: "https://github.com/losier/Dark-Chrome/blob/master/Src/DarkChrome.exe",
-  },
-  {
-    id: 6,
-    image: img6,
-    title: "Obstacle Avoiding Car",
-    github: "https://github.com/losier/Todo",
-    demo: "https://losier.github.io/Todo",
   },
 ];
