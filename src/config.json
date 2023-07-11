@@ -1,6 +1,6 @@
 {
   "name": "Kavya Paliwal",
-  "firstName": "itsooof/kavya-paliwal-portfolio/blob/main/src/assets/Kp.svg",
+  "firstname": "Kavya",
   "lastName": "Paliwal",
   "bio": "I am a Front-end Developer. \n \nTalk about music or tech and I'll be there :)",
   "githubUsername": "itsooof",
@@ -37,7 +37,7 @@
     },
     {
       "id": 4,
-      "image": "https://raw.githubusercontent.com/itsooof/kavya-paliwal-portfolio/blob/main/src/assets/obstacle-avoiding.jpeg",
+      "image": "https://WWw.github.com/itsooof/kavya-paliwal-portfolio/blob/main/src/assets/obstacle-avoiding.jpeg",
       "title": "Obstcle Avoiding Car",
       "github": "https://github.com/itsooof/obstacle-avoiding-car"
       
