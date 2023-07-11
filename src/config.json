@@ -52,10 +52,10 @@
     },
     {
       "id": 6,
-      "image": "https://raw.githubusercontent.com/losier/v4/data/assets/githubRepo/Img6.jfif",
+      "image": "../src/assets/fake.png",
       "title": "Phishing Website Detection",
-      "github": "https://github.com/losier/Todo",
-      "demo": "https://losier.github.io/Todo"
+      "github": "https://github.com/itsooof/phishing-website-detection",
+      "demo": "https://github.com/itsooof/phishing-website-detection"
     }
   ]
 }
