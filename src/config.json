@@ -51,7 +51,7 @@
     },
     {
       "id": 6,
-      "image": "../src/assets/fake.png",
+      "image": "https://github.com/itsooof/kavya-paliwal-portfolio/blob/421717a8edccbf1e5744b2fcc7a1a2526a2ce73d/src/assets/phishing.png",
       "title": "Phishing Website Detection",
       "github": "https://github.com/itsooof/phishing-website-detection",
       "demo": "https://github.com/itsooof/phishing-website-detection"
