@@ -18,7 +18,7 @@ Image Source:
 export const data = [
   {
     id: 1,
-    image: img1,
+    image: "img1",
     title: "Portfolio",
     github: "https://github.com/itsooof/kavya-paliwal-portfolio",
     demo: "http://aarabnishchal.herokuapp.com/",

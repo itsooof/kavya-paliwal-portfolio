@@ -12,46 +12,46 @@
   "linktree": "https://linktr.ee/itsooof",
   "mail": "kpaliwal2002@gmail.com",
   "mail2": "kpaliwal2002@gmail.com",
-  "numberOfAchivement": "69",
   "myImage": "../src/assets/bookstore.png",
   "demoProjects": [
     {
       "id": 1,
+      "image": "/assets/Portfolio.png",
       "title": "Portfolio",
       "github": "https://github.com/losier/v4",
       "demo": "http://aarabnishchal.herokuapp.com/"
     },
     {
       "id": 2,
-      "image": "../src/assets/melanoma-detection.jfif",
+      "image": "/assets/melanoma-detection.jfif",
       "title": "Melanoma Detection",
       "github": "https://github.com/itsooof/melanoma-detection-ai",
-      "demo": ""
+      "demo": "https://github.com/itsooof/melanoma-detection-ai"
     },
     {
       "id": 3,
-      "image": "https://raw.githubusercontent.com/losier/v4/data/assets/githubRepo/Img3.jpg",
+      "image": "/assets/quilting.png",
       "title": "Image Quilting",
       "github": "https://github.com/itsooof/Image-quilting",
-      "demo": ""
+      "demo": "https://github.com/itsooof/Image-quilting"
     },
     {
       "id": 4,
-      "image": "https://WWw.github.com/itsooof/kavya-paliwal-portfolio/blob/main/src/assets/obstacle-avoiding.jpeg",
+      "image": "/assets/obstacle-avoiding.jfif",
       "title": "Obstcle Avoiding Car",
-      "github": "https://github.com/itsooof/obstacle-avoiding-car"
-      
+      "github": "https://github.com/itsooof/obstacle-avoiding-car",
+      "demo": "https://github.com/itsooof/obstacle-avoiding-car"
     },
     {
       "id": 5,
-      "image": "https://drive.google.com/file/d/158uYWT_gQe8RJJZRQal28fE40njU2lqS/view?usp=drive_link",
+      "image": "/assets/calculator.png",
       "title": "Calculator App",
       "github": "https://github.com/itsooof/calculator-react",
       "demo": "calculator-itsooof.netlify.app/"
     },
     {
       "id": 6,
-      "image": "https://github.com/itsooof/kavya-paliwal-portfolio/blob/421717a8edccbf1e5744b2fcc7a1a2526a2ce73d/src/assets/phishing.png",
+      "image": "/assets/phishing.png",
       "title": "Phishing Website Detection",
       "github": "https://github.com/itsooof/phishing-website-detection",
       "demo": "https://github.com/itsooof/phishing-website-detection"

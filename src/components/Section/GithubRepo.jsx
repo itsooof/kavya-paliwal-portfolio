@@ -1,6 +1,7 @@
 import React from "react";
 import "../../styles/githubRepo.css";
 import config from "../../config.json";
+
 const data = config.demoProjects;
 
 const GithubRepo = () => {

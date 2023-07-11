@@ -3,7 +3,6 @@ import "../../styles/Footer.css";
 import config from "../../config.json";
 
 import {
-  FaFacebookSquare,
   FaInstagram,
   FaGithub,
   FaTwitter,
