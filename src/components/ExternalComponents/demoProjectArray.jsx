@@ -1,9 +1,9 @@
 import img1 from "../../assets/githubRepo/Img1.jfif";
-import img2 from "../../assets/";
-import img3 from "../../assets/obstacle-avoiding.jpeg";
-import img4 from "../../assets/githubRepo/Img4.jfif";
-import img5 from "../../assets/githubRepo/Img5.jfif";
-import img6 from "../../assets/githubRepo/Img6.jfif";
+import img2 from "../../assets/melanoma-detection.jpeg";
+import img3 from "../../assets/quilting.png";
+import img4 from "../../assets/obstacle-avoiding.jpeg";
+import img5 from "../../assets/calculator.png";
+import img6 from "../../assets/phishing.png";
 
 /*
 Image Source:
