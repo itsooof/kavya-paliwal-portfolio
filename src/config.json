@@ -26,7 +26,7 @@
       "id": 2,
       "image": "../src/assets/melanoma-detection.jfif",
       "title": "Melanoma Detection",
-      "github": "melanoma",
+      "github": "https://github.com/itsooof/melanoma-detection-ai",
       "demo": ""
     },
     {
@@ -47,7 +47,7 @@
       "id": 5,
       "image": "https://raw.githubusercontent.com/losier/v4/data/assets/githubRepo/Img5.jfif",
       "title": "Calculator App",
-      "github": "https://github.com/losier/Dark-Chrome",
+      "github": "https://github.com/itsooof/calculator-react",
       "demo": "calculator-itsooof.netlify.app/"
     },
     {
