@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from "react";
 import config from "../../config.json";
+// eslint-disable-next-line no-template-curly-in-string
 const words = [config.firstName, config.lastName, `${config.name}.`];
 
 const TypingEffect = () => {
