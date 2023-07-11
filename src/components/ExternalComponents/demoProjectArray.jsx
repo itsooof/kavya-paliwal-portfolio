@@ -1,5 +1,5 @@
 import img1 from "../../assets/githubRepo/Img1.jfif";
-import img2 from "../../assets/githubRepo/Img2.png";
+import img2 from "../../assets/melanoma-detection.jpeg";
 import img3 from "../../assets/obstacle-avoiding.jpeg";
 import img4 from "../../assets/githubRepo/Img4.jfif";
 import img5 from "../../assets/githubRepo/Img5.jfif";
@@ -27,7 +27,7 @@ export const data = [
     id: 2,
     image: img2,
     title: "Melanoma Detection",
-    github: "",
+    github: "https://github.com/itsooof/melanoma-detection-ai",
     demo: "",
   },
   {

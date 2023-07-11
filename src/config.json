@@ -18,22 +18,23 @@
     {
       "id": 1,
       "image": "https://raw.githubusercontent.com/losier/v4/data/assets/githubRepo/Img1.jfif",
-      "title": "v4",
+      "title": "Portfolio",
       "github": "https://github.com/losier/v4",
       "demo": "http://aarabnishchal.herokuapp.com/"
     },
     {
       "id": 2,
-      "image": "https://raw.githubusercontent.com/losier/v4/data/assets/githubRepo/Img2.png",
-      "title": "Telegram Bot",
-      "github": "melanoma"
+      "image": "../src/assets/melanoma-detection.jfif",
+      "title": "Melanoma Detection",
+      "github": "melanoma",
+      "demo": ""
     },
     {
       "id": 3,
       "image": "https://raw.githubusercontent.com/losier/v4/data/assets/githubRepo/Img3.jpg",
-      "title": "Twitter Bot",
-      "github": "https://github.com/itsooof/calculator-react",
-      "demo": "calculator-itsooof.netlify.app/"
+      "title": "Image Quilting",
+      "github": "https://github.com/itsooof/Image-quilting",
+      "demo": ""
     },
     {
       "id": 4,
@@ -45,14 +46,14 @@
     {
       "id": 5,
       "image": "https://raw.githubusercontent.com/losier/v4/data/assets/githubRepo/Img5.jfif",
-      "title": "Dark Chrome",
+      "title": "Calculator App",
       "github": "https://github.com/losier/Dark-Chrome",
-      "demo": "https://github.com/losier/Dark-Chrome/blob/data/Src/DarkChrome.exe"
+      "demo": "calculator-itsooof.netlify.app/"
     },
     {
       "id": 6,
       "image": "https://raw.githubusercontent.com/losier/v4/data/assets/githubRepo/Img6.jfif",
-      "title": "ToDo",
+      "title": "Phishing Website Detection",
       "github": "https://github.com/losier/Todo",
       "demo": "https://losier.github.io/Todo"
     }
