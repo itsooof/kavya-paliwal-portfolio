@@ -1,4 +1,4 @@
-import img1 from "../../assets/githubRepo/Img1.jfif";
+import img1 from "../../../public/assets/Portfolio.png";
 import img2 from "../../assets/melanoma-detection.jpeg";
 import img3 from "../../assets/quilting.png";
 import img4 from "../../assets/obstacle-avoiding.jpeg";
@@ -18,7 +18,7 @@ Image Source:
 export const data = [
   {
     id: 1,
-    image: "img1",
+    image: img1,
     title: "Portfolio",
     github: "https://github.com/itsooof/kavya-paliwal-portfolio",
     demo: "http://aarabnishchal.herokuapp.com/",
