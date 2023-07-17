@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import "../../styles/Nav.css";
-import CV from '../../assets/kavya-paliwal-resume.docx';
+import CV from '../../assets/kavya-paliwal.pdf';
 import kp from '../../assets/Kp1.svg'
 
 const Nav = ({ inView }) => {
