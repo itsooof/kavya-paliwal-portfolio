@@ -40,7 +40,7 @@ const GithubRepo = () => {
           );
         })}
 
-        <a href={"./project"} className="btn">
+        <a href={`https://github.com/itsooof?tab=repositories`} className="btn">
           See all projects
         </a>
       </div>
