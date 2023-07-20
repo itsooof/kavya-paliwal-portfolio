@@ -12,7 +12,7 @@ export const data = [
     image: img1,
     title: "Portfolio",
     github: "https://github.com/itsooof/kavya-paliwal-portfolio",
-    demo: "http://aarabnishchal.herokuapp.com/",
+    demo: "itsooof.netlify.app",
   },
   {
     id: 2,
