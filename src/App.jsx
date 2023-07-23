@@ -10,6 +10,8 @@ import Project from "./components/Pages/Project";
 
 import { Analytics } from "@vercel/analytics/react";
 
+import Music from "./components/Section/Spotify";
+
 const App = () => {
   return (
     <Router>
@@ -24,6 +26,7 @@ const App = () => {
             element={<Home section="experience" />}
           />
           <Route exact path="/projects" element={<Home section="projects" />} />
+          <Route exact path="/spotify" element={<Home section="spotify" />} />
           <Route exact path="/contact" element={<Home section="contact" />} />
           <Route path="*" element={<PageNotFound />} />
         </Routes>
